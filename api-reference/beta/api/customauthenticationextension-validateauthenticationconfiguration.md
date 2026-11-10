@@ -94,7 +94,7 @@ Content-Type: application/json
     },
     "authenticationConfiguration": {
         "@odata.type": "#microsoft.graph.azureAdTokenAuthentication",
-        "resourceId": "api://extensibilityapi.azurwebsites.net/f9c5dc6b-d72b-4226-8ccd-801f7a290428"
+        "resourceId": "api://extensibilityapi.azurewebsites.net/f9c5dc6b-d72b-4226-8ccd-801f7a290428"
     }
 }
 ```
